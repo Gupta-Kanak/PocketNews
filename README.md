@@ -15,7 +15,7 @@ Pocket News is a modern and dynamic web-based application built with React that 
 <ul>
   <li><b>Frontend :</b> React.js</li>
   <li><b>API :</b> https://newsapi.org/</li>
-  <li><b>Styling :</b>Bootstrap</li>
+  <li><b>Styling :</b> Bootstrap</li>
 </ul>
 
 ## Installation & Setup
