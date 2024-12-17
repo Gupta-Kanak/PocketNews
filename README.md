@@ -38,3 +38,8 @@ $ npm install
 $ npm start
 ```
 4. Open http://localhost:3000 in your browser to view the app.
+
+## Project Demo
+
+Click here for an overview of the functional project - 
+[**Pocket News - Project Demo**](./Live%20Project.mp4)
